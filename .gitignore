@@ -1,0 +1,8 @@
+# environment
+.venv
+
+#logs
+geckodriver.log
+
+# results
+prices.csv
